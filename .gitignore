@@ -1,13 +1,3 @@
 # Ignore everything
-*
+public/
 
-# ...even if they are in subdirectories
-!*/
-
-# But not these folders...
-!.github/workflows/*
-
-# But not these files...
-!.gitignore
-!README.md
-!public
